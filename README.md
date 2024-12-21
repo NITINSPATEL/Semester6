@@ -1,1 +1,1 @@
-# 6th-Sem
+# Semester6
