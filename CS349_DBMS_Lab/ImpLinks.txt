@@ -1,0 +1,1 @@
+All database data stored in : C:\Program Files\PostgreSQL\17\data
