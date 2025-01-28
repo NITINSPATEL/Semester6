@@ -1,0 +1,2 @@
+dgx server details = ssh jahanvir@10.195.100.4
+password = jahanvi@123
